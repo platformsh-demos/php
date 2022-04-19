@@ -18,7 +18,7 @@ web:
             root: "web"
             passthru: "/index.php"
 
-disk: 512
+disk: 128
 # mounts:
 #     'data':
 #         source: local
