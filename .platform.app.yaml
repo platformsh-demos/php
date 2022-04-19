@@ -1,4 +1,4 @@
-name: app
+name: myapp
 
 type: 'php:8.0'
 
